@@ -1,0 +1,41 @@
+.drag {
+  ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    .active{
+      background-color: black;
+    }
+    li {
+      border: 1px solid black;
+      width: 48%;
+      /* background-color: red; */
+      padding: 1rem;
+      border-radius: 1rem;
+      background: linear-gradient(45deg, #291ce8d9, #4330e082);
+      border: none;
+      box-shadow: 2px 5px 7px #000000ad;
+      margin: 1rem 0.5rem;
+      height: 8rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      img {
+        width: 100%;
+       
+      }
+      .img {
+        display: flex;
+        justify-content: space-around;
+        width: 5rem;
+         overflow: hidden;
+      }
+    }
+  }
+}
+.Question-main{
+  text-align: center;
+  h1{
+    font-weight: bold;
+  }
+}

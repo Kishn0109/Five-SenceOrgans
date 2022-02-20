@@ -1,0 +1,24 @@
+.signIn-input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* padding: 0rem; */
+  background-color: #cac1c1;
+  .Card {
+    width: 50%;
+    padding: 2rem;
+    box-shadow: 0px 1px 9px 3px #00000063;
+    text-align: center;
+    button{
+            display: block;
+    margin: auto;
+    }
+    h1{
+        font-weight: bold;
+    }
+    a{
+      text-decoration: none;
+    }
+  }
+}
