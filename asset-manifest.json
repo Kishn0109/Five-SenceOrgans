@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Five-SenceOrgans/static/css/main.1711407d.css",
+    "main.js": "/Five-SenceOrgans/static/js/main.bc22a7a7.js",
+    "static/js/787.b701888c.chunk.js": "/Five-SenceOrgans/static/js/787.b701888c.chunk.js",
+    "index.html": "/Five-SenceOrgans/index.html",
+    "main.1711407d.css.map": "/Five-SenceOrgans/static/css/main.1711407d.css.map",
+    "main.bc22a7a7.js.map": "/Five-SenceOrgans/static/js/main.bc22a7a7.js.map",
+    "787.b701888c.chunk.js.map": "/Five-SenceOrgans/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1711407d.css",
+    "static/js/main.bc22a7a7.js"
+  ]
+}
